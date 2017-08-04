@@ -1,0 +1,146 @@
+const recordCollection = [
+    {
+      id: 1,
+      genre: 'hip-hop',
+      albums: [
+          {
+            id: 1,
+            artist: 'Nas',
+            album: 'Illmatic',
+            year: 1994
+          },
+          {
+            id: 2,
+            artist: 'Wu-Tang Clan',
+            album: 'Enter the Wu-Tang',
+            year: 1993
+          },
+          {
+            id: 3,
+            artist: 'Drake',
+            album: 'Take Care',
+            year: 2011
+          },
+          {
+            id: 4,
+            artist: 'Jay-Z',
+            album: 'Reasonable Doubt',
+            year: 1996
+          },
+          {
+            id: 5,
+            artist: 'Eminem',
+            album: 'The Marshall Mathers LP',
+            year: 2000
+          }
+        ]
+    },
+    {
+      id: 2,
+      genre: 'rock',
+      albums: [
+          {
+            id: 1,
+            artist: 'Pink Floyd',
+            album: 'Dark Side of the Moon',
+            year: 1973
+          },
+          {
+            id: 2,
+            artist: 'Nirvana',
+            album: 'Nevermind',
+            year: 1991
+          },
+          {
+            id: 3,
+            artist: 'Abbey Road',
+            album: 'The Beatles',
+            year: 1969
+          },
+          {
+            id: 4,
+            artist: 'The Who',
+            album: 'Who\'s Next',
+            year: 1971
+          },
+          {
+            id: 5,
+            artist: 'U2',
+            album: 'Achtung Baby',
+            year: 1991
+          }
+        ]
+    },
+    {
+      id: 3,
+      genre: 'edm',
+      albums: [
+          {
+            id: 1,
+            artist: 'Major Lazer',
+            album: 'Peace Is The Mission',
+            year: 2015
+          },
+          {
+            id: 2,
+            artist: 'Skrillex',
+            album: 'Recess',
+            year: 2014
+          },
+          {
+            id: 3,
+            artist: 'Dillon Francis',
+            album: 'Money Sucks, Friends Rule',
+            year: 2014
+          },
+          {
+            id: 4,
+            artist: 'Kaskade',
+            album: 'Fire & Ice',
+            year: 2011
+          },
+          {
+            id: 5,
+            artist: 'David Guetta',
+            album: 'Nothing but the Beat',
+            year: 2011
+          }
+        ]
+    },
+    {
+      id: 4,
+      genre: 'country',
+      albums: [
+          {
+            id: 1,
+            artist: 'Chris Stapleton',
+            album: 'Traveller',
+            year: 2015
+          },
+          {
+            id: 2,
+            artist: 'Keith Urban',
+            album: 'Ripcord',
+            year: 2016
+          },
+          {
+            id: 3,
+            artist: 'Montevallo',
+            album: 'Sam Hunt',
+            year: 2014
+          },
+          {
+            id: 4,
+            artist: 'Miranda Lambert',
+            album: 'The Weight of These Wings',
+            year: 2016
+          },
+          {
+            id: 5,
+            artist: 'Zac Brown Band',
+            album: 'Welcome Home',
+            year: 2017
+          }
+        ]
+    }
+  ];
